@@ -64,6 +64,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [SecPi](https://github.com/SecPi/SecPi) - A Raspberry Pi based home alarm system.
 * [PiClock](https://github.com/n0bel/PiClock) - A Fancy Clock built around a monitor and a Raspberry Pi.
 * [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) - A Raspberry Pi garage door opener using [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door.
+* [Lumos](https://github.com/jonathanrjpereira/Lumos) - Smart Lamp for Better Sleep. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 
 # Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
